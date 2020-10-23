@@ -5,33 +5,31 @@
 **Name:** Paulo Henrique Martins  
 **Since:** 1987  
 **Nationality:** Brazil 🇧🇷 / Portugal 🇵🇹  
-**Speak**: 🇵🇹, 🇬🇧, 🇪🇸, 🇫🇷, 🇩🇪, 🇮🇹
-
-
-
+**Speak**: 🇵🇹, 🇬🇧, 🇪🇸, 🇫🇷, 🇩🇪, 🇮🇹  
 **Coding:**  
 <img src="https://img.shields.io/badge/javascript-high-green.svg?logo=javascript" />
 <img src="https://img.shields.io/badge/angular-high-green.svg?logo=angular" />
 <img src="https://img.shields.io/badge/node-high-green.svg?logo=nodejs" />
 <img src="https://img.shields.io/badge/PHP-high-green.svg?logo=php" />
 <img src="https://img.shields.io/badge/docker-average-yellow.svg?logo=docker" />
-<img src="https://img.shields.io/badge/lua-beginner-red.svg?logo=lua" />
-
+<img src="https://img.shields.io/badge/java-weak-red.svg?logo=java" />
+<img src="https://img.shields.io/badge/lua-beginner-red.svg?logo=lua" />  
+**currriculum:** [CV + portfolio](http://www.platypusweb.com.br/cv/paulo/)  
 **contact:** `paulovelho@paulovelho.com`
 
 ---
 ## Projects:
 #### Blog do Paulo Velho
-My personal blog  
+My personal blog (_wordpress_)  
 [blog.paulovelho.com.br for portuguese version](http://blog.paulovelho.com.br/)  
 [en.blog.paulovelho.com for english version](http://en.blog.paulovelho.com/)  
 
 #### nRT
-stupid questions answered with scientific accuracy  
+stupid questions answered with scientific accuracy (_wordpress + small experiments_)  
 [nrt.paulovelho.com.br only in portuguese](http://nrt.paulovelho.com.br/)  
 
 #### Bolão Pé na Cova
-bet website system for celebrities  
+bet website system for celebrities (_PHP + Magrathea + MySQL_)  
 [bolaopenacova.com only in portuguese](https://bolaopenacova.com/)  
 
 ---
