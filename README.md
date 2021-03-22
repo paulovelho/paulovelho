@@ -20,23 +20,23 @@
 ---
 ## Projects:
 #### Gotta Ask
-App for starting conversations - (only in portuguese)
-[available on Google Play](https://play.google.com/store/apps/details?id=app.platypus.gottaask)
-Development with Angular + Ionic
-[repsitory availabke on Github](https://github.com/paulovelho/ice-breaker)
+App for starting conversations - (only in portuguese)  
+[available on Google Play](https://play.google.com/store/apps/details?id=app.platypus.gottaask)  
+Development with Angular + Ionic  
+[repsitory availabke on Github](https://github.com/paulovelho/ice-breaker)  
 
 #### Blog do Paulo Velho
-My personal blog (_wordpress_)
-[blog.paulovelho.com.br for portuguese version](http://blog.paulovelho.com.br/)
-[en.blog.paulovelho.com for english version](http://en.blog.paulovelho.com/)
+My personal blog (_wordpress_)  
+[blog.paulovelho.com.br for portuguese version](http://blog.paulovelho.com.br/)  
+[en.blog.paulovelho.com for english version](http://en.blog.paulovelho.com/)  
 
 #### nRT
-stupid questions answered with scientific accuracy (_wordpress + small experiments_)
-[nrt.paulovelho.com.br only in portuguese](http://nrt.paulovelho.com.br/)
+stupid questions answered with scientific accuracy (_wordpress + small experiments_)  
+[nrt.paulovelho.com.br only in portuguese](http://nrt.paulovelho.com.br/)  
 
 #### Bolão Pé na Cova
-bet website system for celebrities (_PHP + Magrathea + MySQL_)
-[bolaopenacova.com only in portuguese](https://bolaopenacova.com/) 
+bet website system for celebrities (_PHP + Magrathea + MySQL_)  
+[bolaopenacova.com only in portuguese](https://bolaopenacova.com/)   
 
 ---
 <a href="https://www.linkedin.com/in/paulovelho/">
