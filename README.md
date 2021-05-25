@@ -23,7 +23,7 @@
 App for starting conversations - (only in portuguese)  
 [available on Google Play](https://play.google.com/store/apps/details?id=app.platypus.gottaask)  
 Development with Angular + Ionic  
-[repsitory availabke on Github](https://github.com/paulovelho/ice-breaker)  
+[repository available on Github](https://github.com/paulovelho/ice-breaker)  
 
 #### Blog do Paulo Velho
 My personal blog (_wordpress_)  
