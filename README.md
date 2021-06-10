@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/PHP-high-green.svg?logo=php" />
 <img src="https://img.shields.io/badge/docker-average-yellow.svg?logo=docker" />
 <img src="https://img.shields.io/badge/java-weak-red.svg?logo=java" />
+<img src="https://img.shields.io/badge/python-weak-red.svg?logo=lua" />  
 <img src="https://img.shields.io/badge/lua-beginner-red.svg?logo=lua" />  
 **currriculum:** [CV + portfolio](http://www.platypusweb.com.br/cv/paulo/)  
 **contact:** `paulovelho@paulovelho.com`
