@@ -19,7 +19,13 @@
 
 ---
 ## Projects:
-#### Gotta Ask
+#### Voyager image extractor (Q2/2021)
+In 1977, with the Voyager probes, NASA sent two golden disc to space with images encoded in audio format.  
+This project aims to extract those images from soundwaves.  
+[Detailed text and further explanation available in the repo](https://github.com/paulovelho/nrt-voyager-images)  
+Development with Python  
+
+#### Gotta Ask (Q4/2020)
 App for starting conversations - (only in portuguese)  
 [available on Google Play](https://play.google.com/store/apps/details?id=app.platypus.gottaask)  
 Development with Angular + Ionic  
