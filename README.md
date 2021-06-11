@@ -7,15 +7,15 @@
 **Nationality:** Brazil 🇧🇷 / Portugal 🇵🇹  
 **Speak**: 🇵🇹, 🇬🇧, 🇪🇸, 🇫🇷, 🇩🇪, 🇮🇹  
 **Coding:**  
-<img src="https://img.shields.io/badge/javascript-high-green.svg?logo=javascript" />
-<img src="https://img.shields.io/badge/angular-high-green.svg?logo=angular" />
-<img src="https://img.shields.io/badge/ionic-high-green.svg?logo=ionic" />
-<img src="https://img.shields.io/badge/node-high-green.svg?logo=node.js" />
-<img src="https://img.shields.io/badge/PHP-high-green.svg?logo=php" />
-<img src="https://img.shields.io/badge/docker-average-yellow.svg?logo=docker" />
-<img src="https://img.shields.io/badge/java-weak-red.svg?logo=java" />
-<img src="https://img.shields.io/badge/python-weak-red.svg?logo=python" />  
-<img src="https://img.shields.io/badge/lua-beginner-red.svg?logo=lua" />  
+<img src="https://img.shields.io/badge/javascript-high-green.svg?logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/angular-high-green.svg?logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/ionic-high-green.svg?logo=ionic&logoColor=white" />
+<img src="https://img.shields.io/badge/node-high-green.svg?logo=node-dot-js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-high-green.svg?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-average-yellow.svg?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/java-weak-red.svg?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/python-weak-red.svg?logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/lua-beginner-red.svg?logo=lua&logoColor=white" />  
 **currriculum:** [CV + portfolio](http://www.platypusweb.com.br/cv/paulo/)  
 **contact:** `paulovelho@paulovelho.com`
 
