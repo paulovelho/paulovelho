@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/javascript-high-green.svg?logo=javascript" />
 <img src="https://img.shields.io/badge/angular-high-green.svg?logo=angular" />
 <img src="https://img.shields.io/badge/ionic-high-green.svg?logo=ionic" />
-<img src="https://img.shields.io/badge/node-high-green.svg?logo=node" />
+<img src="https://img.shields.io/badge/node-high-green.svg?logo=node.js" />
 <img src="https://img.shields.io/badge/PHP-high-green.svg?logo=php" />
 <img src="https://img.shields.io/badge/docker-average-yellow.svg?logo=docker" />
 <img src="https://img.shields.io/badge/java-weak-red.svg?logo=java" />
