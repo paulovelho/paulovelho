@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/ionic-high-green.svg?logo=ionic&logoColor=white" />
 <img src="https://img.shields.io/badge/node-high-green.svg?logo=node-dot-js&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-high-green.svg?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/flutter-average-yellow.svg?logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/docker-average-yellow.svg?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/java-weak-red.svg?logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/python-weak-red.svg?logo=python&logoColor=white" />  
